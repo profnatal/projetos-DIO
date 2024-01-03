@@ -1,0 +1,39 @@
+###Como Usar Este Repositório
+
+Clonagem do Repositório:
+Copy code: git clone https://github.com/seu-usuario/desvendandoweb.git
+
+Abertura do Artigo:
+Abra o arquivo index.html em seu navegador para ler o artigo.
+
+Exploração de Código:
+Explore o código-fonte do HTML no arquivo index.html para entender a estrutura utilizada no artigo.
+
+Referências Adicionais:
+Acesse os links fornecidos no artigo para aprender mais sobre HTML.
+
+Contribuição
+Contribuições são bem-vindas! Se encontrar algum problema ou tiver sugestões, sinta-se à vontade para abrir uma issue ou enviar um pull request.
+
+TAGS usadas nesse projeto:
+<h1> até <h6> 
+<p> 
+<mark> 
+<small> 
+<i> 
+<u>
+<strong>
+<ol>
+<ul>
+<li>
+<a>
+<hr>
+<sub> e <sup> (essas tags não foram usadas por não ter uma aplicação funcional no texto do artigo do projeto) 
+<blockquote>;
+<abbr> 
+<img src="diretório">
+<code>&lt;"texto"&gt (para identificar as tegs no texto do artigo".
+
+
+
+
